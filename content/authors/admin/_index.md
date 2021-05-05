@@ -16,8 +16,11 @@ email: ""
 highlight_name: false
 interests:
 - Conservation Biology
-- Global Change
+- Global Change Biology
 - Plant-animal interactions
+- Natural History
+- Landscape Ecology
+- Technology in Ecology
 organizations:
 #- name: ''
 #  url:''
