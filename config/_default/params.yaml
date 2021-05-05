@@ -51,7 +51,7 @@ contact_links:
     name: ecologist-amy
     link: 'https://github.com/ecologist-amy'
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     name: amymhruska
     link: 'https://www.linkedin.com/in/amymhruska/'
 
