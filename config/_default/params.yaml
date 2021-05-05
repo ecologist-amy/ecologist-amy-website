@@ -50,10 +50,10 @@ contact_links:
     icon_pack: fab
     name: ecologist-amy
     link: 'https://github.com/ecologist-amy'
-  - icon: linkedin
-    icon_pack: fab
-    name: amymhruska
-    link: 'https://www.linkedin.com/in/amymhruska/'
+#  - icon: linkedin
+#    icon_pack: fas
+#    name: amymhruska
+#    link: 'https://www.linkedin.com/in/amymhruska/'
 
 # Site header
 
