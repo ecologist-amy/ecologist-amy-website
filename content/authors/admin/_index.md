@@ -4,13 +4,13 @@ education:
   courses:
   - course: PhD in Botany, specializing in Ecology, Evolution, and Conservation Biology
     institution: University of Hawaii at Manoa
-    year: 2019
+    year: ""
   - course: MS in Biology
     institution: West Virginia University
-    year: 2014
+    year: ""
   - course: BSc in Environmental Biology, GIS Certificate
     institution: University of Dayton
-    year: 2011
+    year: ""
    
 email: ""
 highlight_name: false
@@ -21,9 +21,9 @@ interests:
 - Natural History
 - Landscape Ecology
 - Technology in Ecology
-organizations:
+#organizations:
 #- name: ''
-#  url:''
+#-  url:''
 role: Ecologist, Outdoor Enthusiast
 social:
 - icon: envelope
