@@ -2,7 +2,7 @@
 bio: I'm an ecologist broadly interested in how global change affects ecosystem function and the implications for conservation.
 education:
   courses:
-  - course: PhD in Botany, specializing in Ecology, Evolution, and Conservation Biology
+  - course: PhD in Botany, specialization in Ecology, Evolution, and Conservation Biology
     institution: University of Hawaii at Manoa
     year: ""
   - course: MS in Biology
@@ -51,4 +51,3 @@ title: Dr. Amy M. Hruska
 I am an ecologist... 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
