@@ -50,7 +50,7 @@ title: Dr. Amy M. Hruska
 
 Hello, I’m Amy! I am an ecologist passionate about using science and technology to study and celebrate our environment. I use traditional and cutting-edge methodologies to understand how global changes, such as introduced species, affect the species interactions critical for maintaining ecosystem health and the implications for land management. I collaborate with scientists, natural resource professionals, private landowners, and community members to design and implement research projects relevant to conservation and working lands. 
 
-Outside of my research, I enjoy time outdoors gardening, hiking, biking, and backpacking. These hobbies fuel my curiosity and continue to inspire me to learn and grow. The main goal of this site and linked social media is to broaden my community virtually through storytelling. I am enthusiastic to both share and learn from others. I hope you enjoy the content and feel welcome to comment or ask questions! 
+Outside of my research, I enjoy time outdoors gardening, hiking, biking, and backpacking. These hobbies fuel my curiosity and continue to inspire me to learn and grow. The main goal of this site and linked social media is to broaden my community virtually through storytelling. I am enthusiastic to both share with and learn from others. I hope you enjoy the content and feel welcome to comment or ask questions! 
 
 
 
