@@ -1,5 +1,5 @@
 ---
-bio: I'm an ecologist broadly interested in how global change affects ecosystem function and the implications for conservation.
+bio: 
 education:
   courses:
   - course: PhD in Botany, specialization in Ecology, Evolution, and Conservation Biology
